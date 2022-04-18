@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 # run Post-generation scripts
 # https://github.com/actions/virtual-environments/blob/main/docs/create-image-and-azure-resources.md#post-generation-scripts
